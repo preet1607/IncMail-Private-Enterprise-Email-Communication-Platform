@@ -110,7 +110,7 @@ IncMail serves as a cost-effective alternative to commercial business email solu
 * Enhanced security and compliance
 * Custom branding capabilities
 * Scalable business communication
-* 
+  
 
 
 ## Commercial Licensing
