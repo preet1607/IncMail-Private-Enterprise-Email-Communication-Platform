@@ -12,7 +12,6 @@ IncMail serves as a cost-effective alternative to commercial business email solu
 
 > **Note:** This repository serves as a product showcase. Source code is proprietary and not publicly available.
 
----
 
 ## Core Features
 
@@ -30,7 +29,7 @@ IncMail serves as a cost-effective alternative to commercial business email solu
 * File attachments
 * Email folders and organization
 
----
+
 
 ## User Features
 
@@ -46,7 +45,7 @@ IncMail serves as a cost-effective alternative to commercial business email solu
 * Responsive web interface
 * Mobile-friendly experience
 
----
+
 
 ## Administration Features
 
@@ -72,7 +71,7 @@ IncMail serves as a cost-effective alternative to commercial business email solu
 * Data protection policies
 * Administrative oversight
 
----
+
 
 ## Enterprise Features
 
@@ -85,7 +84,7 @@ IncMail serves as a cost-effective alternative to commercial business email solu
 * Scalable architecture
 * Centralized administration
 
----
+
 
 ## Ideal For
 
@@ -99,7 +98,7 @@ IncMail serves as a cost-effective alternative to commercial business email solu
 * Internal Corporate Networks
 * Startups
 
----
+
 
 ## Business Benefits
 
@@ -112,7 +111,7 @@ IncMail serves as a cost-effective alternative to commercial business email solu
 * Custom branding capabilities
 * Scalable business communication
 * 
----
+
 
 ## Commercial Licensing
 
@@ -129,7 +128,7 @@ Includes:
 * Web Access
 * Standard Support
 
----
+
 
 ### Professional Edition
 
@@ -145,7 +144,7 @@ Includes:
 * Reporting Dashboard
 * Priority Support
 
----
+
 
 ### Enterprise Edition
 
@@ -162,7 +161,7 @@ Includes:
 * Dedicated Infrastructure Support
 * Enterprise SLA
 
----
+
 
 ## Optional Add-ons
 
@@ -182,7 +181,7 @@ Available upon request:
 
 Pricing depends on deployment requirements.
 
----
+
 
 ## Deployment Options
 
@@ -200,7 +199,7 @@ Pricing depends on deployment requirements.
 * Private Infrastructure
 * Enterprise Security Compliance
 
----
+
 
 ## Request a Demo
 
@@ -216,7 +215,7 @@ Please include:
 * Required Features
 * Security Requirements
 
----
+
 
 ## Source Code Availability
 
@@ -228,7 +227,7 @@ For licensing inquiries:
 
 📧 [preetparekh1672@gmail.com](mailto:preetparekh1672@gmail.com)
 
----
+
 
 ## License
 
@@ -240,7 +239,7 @@ This repository is intended solely for showcasing product capabilities and enter
 
 Unauthorized copying, redistribution, reverse engineering, or commercial use without written permission is prohibited.
 
----
+
 
 ## Status
 
